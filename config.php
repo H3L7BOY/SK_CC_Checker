@@ -81,7 +81,7 @@ $red_link [] = "https://www.youtube.com/embed/tDukIfFzX18?start=1&autoplay=1";	/
 $red_link [] = "https://www.youtube.com/embed/lBYyAQ99ZFI?start=1&autoplay=1";	//SOMI - What You Waiting For
 $red_link [] = "https://www.youtube.com/embed/gdZLi9oWNZg?start=1&autoplay=1";	//BTS - Dynamite
 $red_link [] = "https://www.youtube.com/embed/XsX3ATc3FbA?start=1&autoplay=1";	//BTS - Boy With Luv
-$red_link [] = "https://www.youtube.com/embed/MBdVXkSdhwU?start=1&autoplay=1";	//BTS - DNA
+$red_link [] = "https://www.youtube.com/embed/MBdVXkSdhwU?start=1-&autoplay=1";	//BTS - DNA
 
 
 //-----------------------------------------------------------------------------------------//
